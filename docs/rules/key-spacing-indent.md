@@ -1,4 +1,8 @@
-# key-spacing-indent (`key-spacing-indent`)
+# Enforce consistent spacing between keys and values in object literal properties (`medooze/key-spacing-indent`)
+
+🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
+
+<!-- end auto-generated rule header -->
 
 Please describe the origin of the rule here.
 

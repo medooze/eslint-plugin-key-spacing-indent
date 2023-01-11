@@ -42,7 +42,13 @@ Then configure the rules you want to use under the rules section.
 ## Rules
 
 <!-- begin auto-generated rules list -->
-TODO: Run eslint-doc-generator to generate the rules list.
+
+🔧 Automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/user-guide/command-line-interface#--fix).
+
+| Name                                                   | Description                                                                     | 🔧 |
+| :----------------------------------------------------- | :------------------------------------------------------------------------------ | :- |
+| [key-spacing-indent](docs/rules/key-spacing-indent.md) | Enforce consistent spacing between keys and values in object literal properties | 🔧 |
+
 <!-- end auto-generated rules list -->
 
 
