@@ -18,7 +18,6 @@
     "update:eslint-docs": "eslint-doc-generator"
   },
   "dependencies": {
-    "eslint-ast-utils": "^1.1.0",
     "grapheme-splitter": "^1.0.4",
     "requireindex": "^1.2.0"
   },
