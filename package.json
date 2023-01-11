@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-key-spacing-indent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "key-spacing-indent.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medooze/eslint-plugin-key-spacing-indent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medooze/eslint-plugin-key-spacing-indent/issues"
+  },
+  "homepage": "https://github.com/medooze/eslint-plugin-key-spacing-indent#readme",
+  "dependencies": {
+    "eslint-ast-utils": "^1.1.0",
+    "grapheme-splitter": "^1.0.4"
+  }
+}
